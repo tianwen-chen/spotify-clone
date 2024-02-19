@@ -1,2 +1,2 @@
-# spotify-clone
-Spotify clone app, built by React, TypeScript, Supabase
+# Purple-fy: an online music player
+built with React, Next, TypeScript, Supabase
