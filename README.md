@@ -1,2 +1,2 @@
 # spotify-clone
-Spotify clone app
+Spotify clone app, built by React, TypeScript, Supabase
